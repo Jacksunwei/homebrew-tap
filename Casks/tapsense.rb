@@ -1,5 +1,5 @@
 cask "tapsense" do
-  version "0.1.3"
+  version "0.2.0"
   sha256 :no_check
 
   url "https://github.com/Jacksunwei/tapsense/releases/download/v#{version}/TapSense.app.zip"
