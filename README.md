@@ -13,11 +13,13 @@ brew tap jacksunwei/tap
 ```bash
 # Casks
 brew install --cask jacksunwei/tap/tapsense
+brew install --cask jacksunwei/tap/cronbar
 ```
 
 ### Casks
 
 *   **tapsense** — MacBook accelerometer-based gesture triggers.
+*   **cronbar** — Menu bar app for viewing and managing user LaunchAgents.
 
 ## Update / Uninstall
 
