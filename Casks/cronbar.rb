@@ -1,6 +1,6 @@
 cask "cronbar" do
-  version "1.0.0"
-  sha256 "7cd34707a00b19f5d668c0b251d23c3a6c5d3267f5ec9c08d921ac60a490503e"
+  version "1.0.1"
+  sha256 "01289f977a670d0d39a08e8d894535bf5f1cebec1d3f25c758f1e09530b1cba8"
 
   url "https://github.com/Jacksunwei/CronBar/releases/download/v#{version}/CronBar.app.zip"
   name "CronBar"
